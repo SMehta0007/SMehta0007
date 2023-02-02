@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sonumehta.cr9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wXFJMkSvAuALt6n5gd_QGidYP8yfWj8V/view?usp=share_link](https://drive.google.com/file/d/1wXFJMkSvAuALt6n5gd_QGidYP8yfWj8V/view?usp=share_link)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1wXFJMkSvAuALt6n5gd_QGidYP8yfWj8V/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am Funny😅**
 
