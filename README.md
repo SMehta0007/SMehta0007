@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- ❤️ I love writing TypeScript, and building fun experiments on type-level 
+
 - 📫 How to reach me **sonumehta.cr9@gmail.com**
 
 - 📄 Know about my experiences [CLICK HERE](https://drive.google.com/file/d/1wXFJMkSvAuALt6n5gd_QGidYP8yfWj8V/view?usp=share_link)
