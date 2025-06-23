@@ -1,5 +1,10 @@
+![logo](https://github.com/SMehta0007/SMehta0007/blob/main/Github_Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sonu Mehta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA3MDQ1NzAsIm5iZiI6MTc1MDcwNDI3MCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjIzVDE4NDQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyMDQxY2Q3ZmY4NmU3MzczNWUyM2E1NTQ2ZTQ1MWQwMTczMDljYzQ3NGI1OTk0NGQ3YzgwOWRhY2E4ZTc2NDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6pmmDXVCCL36Ic4998ObKcyz0AK35dP--FPjjdbUOGU">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smehta0007&label=Profile%20views&color=0e75b6&style=flat" alt="smehta0007" /> </p>
 
