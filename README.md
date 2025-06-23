@@ -1,4 +1,4 @@
-![logo](https://github.com/SMehta0007/SMehta0007/blob/main/Github_Banner.png)
+![logo](https://github.com/SMehta0007/SMehta0007/blob/main/github-banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sonu Mehta</h1>
 <h3 align="center">A passionate Software developer from India</h3>
