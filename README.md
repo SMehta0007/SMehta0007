@@ -8,7 +8,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=smehta0007&label=Profile%20views&color=0e75b6&style=flat" alt="smehta0007" />
-  <a href="https://www.linkedin.com/in/athif-ahamed-519ab1183" target="_blank" style="margin-left: 10px;">
+  <a href="https://www.linkedin.com/in/sonu-mehta07/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
