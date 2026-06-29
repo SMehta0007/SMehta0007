@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: When not debugging code, I’m usually debugging a puzzle or soaking in insights from books.
 
-- 📄 You can explore my professional journey in this [[Resume Link](https://drive.google.com/drive/folders/1khWADeVv5tGaC9qWeiL-Ej7BHtLSM_ca)]
+- 📄 You can explore my professional journey in this [[Resume Link](https://drive.google.com/file/d/1zzGuo39RtwuNgdtQDTqEQSa6Xzpm-w53/view?usp=sharing)]
 
 
 ---
