@@ -6,7 +6,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-mehta07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sonumehta.cr9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://drive.google.com/file/d/1zzGuo39RtwuNgdtQDTqEQSa6Xzpm-w53/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-2F80ED?style=for-the-badge" alt="Resume"/></a>
+ <!--
+<a href="https://drive.google.com/file/d/1zzGuo39RtwuNgdtQDTqEQSa6Xzpm-w53/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-2F80ED?style=for-the-badge" alt="Resume"/></a>
+-->
+<a href="https://drive.google.com/file/d/1uNzm0saNA61wVU_P-2X8Dm8YoYUNnSct/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-2F80ED?style=for-the-badge" alt="Resume"/></a>
 </p>
 
 ---
