@@ -1,4 +1,4 @@
-![Banner](https://github.com/SMehta0007/SMehta0007/blob/main/github-banner.gif)
+![Banner](https://raw.githubusercontent.com/SMehta0007/SMehta0007/main/github-banner.gif)
 
 <h1 align="center">Hi, I'm Sonu Mehta 👋</h1>
 <h3 align="center">Full Stack Software Engineer · Angular · React · .NET Core · Azure</h3>
@@ -18,6 +18,10 @@ I'm a Software Engineer with 3+ years of experience building enterprise web appl
 - 🔭 Building at **Stridely Solutions**
 - 🌱 Currently exploring **MongoDB with Node.js**
 - ⚡ When not debugging code, I'm usually debugging a puzzle or soaking in insights from books
+
+<p align="center">
+  <img alt="coding" width="500" src="https://raw.githubusercontent.com/SMehta0007/SMehta0007/main/coding.gif">
+</p>
 
 ---
 
