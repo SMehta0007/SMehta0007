@@ -13,15 +13,15 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SMehta0007/SMehta0007/main/coding.gif">
+
 I'm a Software Engineer with 3+ years of experience building enterprise web applications end to end, from component architecture to production deployment on Azure. I work across Angular, React, .NET Core and Python/FastAPI, and I've shipped LLM/RAG-powered features and real-time 3D rendering in the browser.
 
 - 🔭 Building at **Stridely Solutions**
 - 🌱 Currently exploring **MongoDB with Node.js**
 - ⚡ When not debugging code, I'm usually debugging a puzzle or soaking in insights from books
 
-<p align="center">
-  <img alt="coding" width="500" src="https://raw.githubusercontent.com/SMehta0007/SMehta0007/main/coding.gif">
-</p>
+<br clear="right"/>
 
 ---
 
