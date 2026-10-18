@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/SMehta0007/SMehta0007/main/github-banner.gif)
 
 <h1 align="center">Hi, I'm Sonu Mehta 👋</h1>
-<h3 align="center">Full Stack Software Engineer · Angular · React · .NET Core · Azure</h3>
+<h3 align="center">Full Stack Software Engineer · Angular · React · .NET Core · Azure · AI Nerd 🤖</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-mehta07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
